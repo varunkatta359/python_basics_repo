@@ -1,0 +1,3 @@
+01 contains APPLE
+02 contains BALL
+03 contains CAT
